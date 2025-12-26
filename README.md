@@ -15,7 +15,7 @@ Code on a run! <br>
 Even code at the club! <br>
 <img width="400" height="299" alt="image" src="https://github.com/user-attachments/assets/f3d05c00-a47a-4ebe-8db3-1795a6a0798c" /><br>
 
-Although too much screen time can be a bad thing, doom coding will help you make meaningful progress on the projects you care about. Shameless plug: While I was traveling in Taiwan, I accessed my computer in Philadelphia and built an MVP in my downtime. 
+Doom coding has helped me make meaningful progress on the projects I care about. Shameless plug: While I was traveling in Taiwan, I accessed my computer in Philadelphia and built an MVP in my downtime. 
 
 *Check out www.friendlyr.ai to help shape the future of connection!*
 
@@ -28,7 +28,7 @@ Happy doom coding my friends!
 2. A Smartphone
 
 # Overview
-Use Tailscale, Termius, Claude Code, and laptop to continue building anywhere you have Internet connection.
+Use Tailscale, Termius, Claude Code, and a computer running 24/7 to continue building anywhere you have Internet connection.
 
 # Getting Started
 
@@ -40,8 +40,8 @@ Use Tailscale, Termius, Claude Code, and laptop to continue building anywhere yo
 - Install Tailscale and sign in<br>
   <img width="400" height="506" alt="image" src="https://github.com/user-attachments/assets/f3d68264-0aa4-47a6-b7c9-2efe18bc3627" /><br>
   https://tailscale.com/download
-- Install Claude Code on your laptop<br>
-  https://docs.anthropic.com/en/docs/claude-code/overview
+- Install Claude Code on your computer<br>
+https://docs.anthropic.com/en/docs/claude-code/overview
 
 ## 2. Set Up Your Phone
 - Install Tailscale → Sign in with the same account<br>
@@ -59,8 +59,6 @@ Use Tailscale, Termius, Claude Code, and laptop to continue building anywhere yo
   <img width="400" height="320" alt="image" src="https://github.com/user-attachments/assets/5e0f0ea1-c59c-47d9-b85d-d51b4396c93d" /> <br>
   <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/0f796605-57f2-4264-abf0-20369efdf895" />
 
-
-
 ## 3. Connect and Code
 - Turn on Tailscale VPN on your phone<br>
   <img width="400" height="245" alt="image" src="https://github.com/user-attachments/assets/03646788-619b-427e-8e47-5bf8219c1c36" />
@@ -74,28 +72,27 @@ Use Tailscale, Termius, Claude Code, and laptop to continue building anywhere yo
 ## 1. Reset your Tailscale VPN
 - Check your phone settings to make sure you are connected to the Tailscale VPN. <br>
 <img width="400" height="227" alt="image" src="https://github.com/user-attachments/assets/1b041eff-9001-4e41-8922-c7f3bcb368da" /> <br>
-- Check the Tailscale app to make sure the Tailscale VPN is on. If your phone and doom coding computer does not show a green circle for connected, there is an issue with your Tailscale/Internet connection.
+- Check the Tailscale app to make sure the Tailscale VPN is on. If your phone and doom coding computer do not have a green circle next to their labels, there is an issue with your Tailscale/Internet connection.
 <img width="400" height="517" alt="image" src="https://github.com/user-attachments/assets/e5da61ab-828d-4f40-920d-840306c284ed" />
 
-
-
 ## 2. Make sure your computer is ON and UNLOCKED
-When disconnecting/reconnecting power, make sure you unlock the computer. 
+When disconnecting/reconnecting power, make sure you unlock the computer. I've ran into this issue one too many times.
+
 # Best Practices
 ### Track your progress:
-End sessions by asking Claude to update CLAUDE.md with where you left off
+End sessions by asking Claude to update CLAUDE.md with where you left off.
 
 ### Preview websites:
 Go to your desired directory and start an HTTP server<br>
 ``
   python -m http.server 3005
 ``
-then visit http://your-machine.tailnet-name.ts.net:3005 in a browser on your phone<br>
+then visit http://your-machine.tailnet-name.ts.net:3005/your-html-file.html in a browser on your phone<br>
 
 *Wherever you would use localhost:PORT to view an application, replace localhost with the machines MagicDNS from the Tailscale app (e.g. your-machine.tailnet-name.ts.net)*
 
 ### View Databases:
-Use the PostgreSQL app to troubleshoot databases on the go: https://apps.apple.com/us/app/postgresql-client/id1233662353
+Use the PostgreSQL app to view databases on the go https://apps.apple.com/us/app/postgresql-client/id1233662353
 
 ### Bookmark Useful Sites:
 On your computer, bookmark the sites you refer to during development (e.g. Google OAuth, GitHub) to make it easier to reference from your phone. I use the Chrome app to seamlessly access the sites I need. 

@@ -15,7 +15,7 @@ Code on a run! <br>
 Even code at the club! <br>
 <img width="400" height="299" alt="image" src="https://github.com/user-attachments/assets/f3d05c00-a47a-4ebe-8db3-1795a6a0798c" /><br>
 
-I still get giddy getting so much done while being so far away from home. In Taiwan, I could access my computer in Philadelphia and built an MVP in my downtime. 
+I've been amazed by how much I can get done while being so far away from home. In Taiwan, I could access my computer in Philadelphia and built an MVP in my downtime. 
 
 *Shameless plug: check out www.friendlyr.ai to help shape the future of connection!*
 

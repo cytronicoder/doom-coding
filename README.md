@@ -23,7 +23,7 @@ Make sure to "Watch" this repo for future updates to this doom coding guide. As 
 
 Happy doom coding my friends!
 
-# What You Need
+# What You'll Need
 1. A Computer running 24/7 with Internet Connection
 2. A Smartphone
 3. A Claude Pro subscription

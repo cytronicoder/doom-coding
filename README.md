@@ -26,6 +26,7 @@ Happy doom coding my friends!
 # What You Need
 1. A Computer running 24/7 with Internet Connection
 2. A Smartphone
+3. A Claude Pro subscription
 
 # Overview
 Use Tailscale, Termius, Claude Code, and a computer running 24/7 to continue building anywhere you have Internet connection.

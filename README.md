@@ -1,23 +1,25 @@
 # doom-coding
 A DIY approach to coding on-the-go. 
 
-After this 5-minute setup guide, you'll be able to code anywhere at any time.
+As an aspiring builder, I sought out a way to keep coding on-the-go. Thanks to some Claude-assisted research and troubleshooting, I can now code from my phone anywhere at anytime through a method my partner affectionately calls "Doom Coding" (think _Doom Scrolling_ but marginally more productive).
 
-You can code in the air!<br>
-<img width="400" height="316" alt="image" src="https://github.com/user-attachments/assets/38e4c29f-9793-4700-bb99-17e368400cc4" /> <br>
+After this 5-minute setup guide, you'll be able to "doom code" anywhere you have Internet connection.
 
-You can code on a run! <br>
+Code in the air!<br>
+![Uploading image.jpeg…]()
+ <br>
+
+Code on a run! <br>
 <img width="400" height="316" alt="image" src="https://github.com/user-attachments/assets/f5449004-0a76-44ee-9922-a5cce1423f93" /> <br>
 
-You can even code at the club! <br>
+Even code at the club! <br>
 <img width="400" height="299" alt="image" src="https://github.com/user-attachments/assets/f3d05c00-a47a-4ebe-8db3-1795a6a0798c" /><br>
 
-Anywhere you have Internet connection, you'll be able to make progress on the projects you care about.
+Although too much screen time can be a bad thing, doom coding will help you make meaningful progress on the projects you care about. While I was traveling in Taiwan, I accessed my computer in Philadelphia and built an MVP in my downtime. *Check out www.friendlyr.ai to help shape the future of connection!*
 
-I am based in Philadelphia and was able to build an MVP from my phone while traveling in Taiwan (check out www.friendlyr.ai to help shape the future of connection!)
+Use the "Watch" button for updates to my doom coding method. As I tryout the latest mobile coding tools (e.g. Claude Code on the Web), I'll update this repository with comparisons.
 
-Thankfully for us, being on your phone 24/7 is a global cultural norm. Now we can turn our screen time into work time - happy doom coding my friends!
-
+Happy doom coding my friends!
 
 # What You Need
 1. A Computer running 24/7 with Internet Connection

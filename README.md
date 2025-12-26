@@ -53,7 +53,7 @@ Use Tailscale, Termius, Claude Code, and laptop to continue building anywhere yo
   python -m http.server 3005
 ```
   then visit http://your-machine.tailnet-name.ts.net:3005 in a browser on your phone<br>
-  *Wherever you would use localhost:PORT to view an application, replace localhost with your-machine.tailnet-name.ts.net*
+  *Wherever you would use localhost:PORT to view an application, replace localhost with the machines MagicDNS from the Tailscale app (e.g. your-machine.tailnet-name.ts.net) *
 - View Databases: Use the PostgreSQL app to troubleshoot databases on the go<br>
   https://apps.apple.com/us/app/postgresql-client/id1233662353
 

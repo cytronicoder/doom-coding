@@ -6,8 +6,8 @@ As an aspiring builder, I sought out a way to keep coding while not at home. Tha
 After this 5-minute setup guide, you'll be able to "doom code" anywhere you have Internet connection.
 
 Code in the air!<br>
-<img width="400" height="316" alt="image" src="https://github.com/user-attachments/assets/f5449004-0a76-44ee-9922-a5cce1423f93](https://github.com/user-attachments/assets/05bb6616-9a59-4824-ab15-07a941af6bd8" /> <br>
-
+<br>
+<img width="400" height="316" alt="image" src="https://github.com/user-attachments/assets/bda532b6-3963-4ace-907b-ebbf9460032c" />
  <br>
 
 Code on a run! <br>
@@ -57,8 +57,8 @@ https://docs.anthropic.com/en/docs/claude-code/overview
   * Hostname: The MagicDNS address (my-computer.tailnet-name.ts.net)
   * Port: 22
   * Username/Password: Your login for your computer <br>
-  ![image](https://github.com/user-attachments/assets/69e2d4f0-9dad-4362-8b39-304f3ef66e6d)
-![image](https://github.com/user-attachments/assets/33105829-7dc2-4be2-934d-56793f01a03d)
+   <img width="400" height="359" alt="image" src="https://github.com/user-attachments/assets/69e2d4f0-9dad-4362-8b39-304f3ef66e6d" />
+   <img width="400" height="359" alt="image" src="https://github.com/user-attachments/assets/33105829-7dc2-4be2-934d-56793f01a03d" />
 
 
 ## 3. Connect and Code

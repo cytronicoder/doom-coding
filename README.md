@@ -78,7 +78,8 @@ https://docs.anthropic.com/en/docs/claude-code/overview
 <img width="400" height="517" alt="image" src="https://github.com/user-attachments/assets/e5da61ab-828d-4f40-920d-840306c284ed" />
 
 ## 2. Make sure your computer is ON and UNLOCKED
-When disconnecting/reconnecting power, make sure you unlock the computer. I've ran into this issue one too many times.
+- When disconnecting/reconnecting power, make sure you unlock the computer. I've ran into this issue one too many times.
+- New niche bug: If you're using a closed laptop to doom code, do not connect that laptop to a monitor. I've recently changed my setup from displaying my doom coding laptop 24/7 to connecting the doom code laptop display to a backup HDMI port I can switch too. Despite setting the doom code laptop to never sleep, it would still disconnect from tailscale after 10 minutes. Issue was resolved by disconnecting the doom code laptop from the monitor. Go figure. 
 
 # Best Practices
 ### Track your progress:

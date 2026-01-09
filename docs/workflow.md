@@ -41,3 +41,5 @@ This workflow is highly compatible with terminal-based coding agents:
   - Test runners and build systems
   - Git operations
   - Database CLIs
+
+[← Previous: Client Setup](setup-client.md) | [Next: Best Practices →](best-practices.md)

@@ -12,3 +12,5 @@ Contributions are welcome! If you have found ways to improve this workflow, plea
 
 1. Open an issue for bugs or suggestions
 2. Submit a PR for direct improvements to the documentation
+
+[← Previous: Troubleshooting](troubleshooting.md) | [Back to README →](../README.md)

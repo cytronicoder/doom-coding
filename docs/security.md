@@ -34,3 +34,5 @@ Passwords are susceptible to brute-force attacks and credential stuffing. SSH ke
 - Your phone is your key. Use biometric locks or strong passcodes
 - Store your private keys in a secure enclave or a password manager that supports SSH key storage
 - Periodically check your VPN dashboard to see which devices are connected to your private network
+
+[← Previous: Requirements](requirements.md) | [Next: Host Setup →](setup-host.md)

@@ -18,3 +18,5 @@ The workflow uses three main layers to bridge the gap between your phone and you
 - Your editor, build tools, and coding agents run on the computer; you control them from your phone over SSH
 
 _If you can run it in a terminal on your computer, you can "doom code" it from your phone._
+
+[← Back to README](../README.md) | [Next: Requirements →](requirements.md)

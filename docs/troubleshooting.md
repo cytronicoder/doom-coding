@@ -48,3 +48,5 @@ If you encounter issues while doom coding, use this guide to diagnose and resolv
     - Fix: Always start your sessions by attaching to `tmux` (e.g., `tmux attach || tmux new`). This ensures that if the connection drops, your processes continue running
 2. Diagnosis: Server Reboot
     - Fix: If the host machine rebooted, your tmux sessions are gone unless you use a persistence plugin like `tmux-resurrect`
+
+[← Previous: Best Practices](best-practices.md) | [Next: Contributing →](contributing.md)

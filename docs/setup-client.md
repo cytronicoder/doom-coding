@@ -34,3 +34,5 @@ In your SSH client app, create a new "Host" or "Connection" profile with the fol
 - Import your private key into the app or generate one in the app and add the public portion to your host
 - Associate that key with your host connection profile
 - Avoid using passwords for authentication to maintain a high security baseline
+
+[← Previous: Host Setup](setup-host.md) | [Next: Workflow →](workflow.md)

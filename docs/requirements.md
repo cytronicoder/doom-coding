@@ -26,3 +26,5 @@ To get started with doom coding, you'll need a few pieces of hardware and softwa
 - `tmux` or `screen` on the host for session persistence
 - `git` and a clean repository workflow
 - A tool (1Password, Bitwarden, Keychain, etc.) to manage your credentials securely
+
+[← Previous: Overview](overview.md) | [Next: Security Baseline →](security.md)

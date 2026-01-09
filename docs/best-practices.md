@@ -47,3 +47,5 @@ When using coding agents remotely, adopt a cautious approach:
 - Always review output from agents before running destructive commands (e.g., `rm -rf` or database migrations)
 - Commit your work often so you can revert easily if a remote session goes sideways
 - Avoid running any development tasks as administrative or root users
+
+[← Previous: Workflow](workflow.md) | [Next: Troubleshooting →](troubleshooting.md)

@@ -52,3 +52,5 @@ Install the tools you intend to use remotely:
 - Build tools: Linters, formatters, and compilers
 - Terminal multiplexer: `tmux` or `screen`
 - Coding agents: Claude Code, Codex CLI, Aider, etc.
+
+[← Previous: Security Baseline](security.md) | [Next: Client Setup →](setup-client.md)

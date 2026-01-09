@@ -17,12 +17,12 @@ Explore the detailed guides below to set up your environment:
 1. [**Quick Start Tutorial**](docs/tutorial.md) - **Start here!**
 2. [Overview](docs/overview.md)
 3. [Requirements](docs/requirements.md)
-3. [Host Setup](docs/setup-host.md)
-4. [Client Setup](docs/setup-client.md)
-5. [Workflow](docs/workflow.md)
-6. [Best Practices](docs/best-practices.md)
-7. [Troubleshooting](docs/troubleshooting.md)
-8. [Contributing](docs/contributing.md)
+4. [Host Setup](docs/setup-host.md)
+5. [Client Setup](docs/setup-client.md)
+6. [Workflow](docs/workflow.md)
+7. [Best Practices](docs/best-practices.md)
+8. [Troubleshooting](docs/troubleshooting.md)
+9. [Contributing](docs/contributing.md)
 
 > [!IMPORTANT]
 > Before getting started, you must read the [security baseline](docs/security.md). Remote access is powerful; treat your mobile connection with the same rigor as production access.

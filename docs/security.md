@@ -25,9 +25,10 @@ Passwords are susceptible to brute-force attacks and credential stuffing. SSH ke
 
 ### Hardening the Host
 
-- Ensure FileVault (macOS), BitLocker (Windows), or LUKS (Linux) is active on the host
-- Keep the host OS, SSH server, and all development tools updated with the latest security patches
-- Enable a firewall on the host and only allow traffic from your private VPN network
+- Ensure FileVault (macOS), BitLocker (Windows), or LUKS (Linux) is active.
+  - *macOS*: Run `fdesetup status` to verify.
+- Keep the host OS and SSH server updated.
+- Enable a firewall and only allow traffic from your private VPN.
 
 ## Warnings and Recommendations
 

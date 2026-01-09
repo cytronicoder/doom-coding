@@ -11,9 +11,11 @@ If you encounter issues while doom coding, use this guide to diagnose and resolv
 2. Diagnosis: Is the VPN active?
     - Fix: Open your VPN app (e.g., Tailscale) on your phone and ensure it is "Connected." Check the list to see if the host also shows as "Online"
 3. Diagnosis: Is SSH running?
-    - Fix: Try to SSH into the machine from another local device or check the system settings on the host to verify "Remote Login" or the SSH service is active
+    - macOS: Check System Settings > General > Sharing > Remote Login. Or run `sudo systemsetup -getremotelogin`.
+    - Linux: Run `sudo systemctl status ssh`.
 4. Diagnosis: Is the firewall blocking access?
-    - Fix: Ensure the host firewall allows incoming connections on the SSH port (default 22) specifically from the VPN interface
+    - macOS: Check System Settings > Network > Firewall > Options. Ensure "Remote Login (SSH)" is allowed.
+    - Linux: Check `ufw status` or `iptables -L`. Ensure port 22 is open on the VPN interface.
 
 ### Symptom: "Permission Denied (publickey)"
 

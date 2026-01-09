@@ -2,13 +2,13 @@
 
 To get started with doom coding, you'll need a few pieces of hardware and software. The goal is to keep this setup tool-agnostic so you can use what works best for your OS and workflow.
 
-## Hardware / Access
+## Hardware/Access
 
 1. Host computer: A machine you control that can stay online reliably (desktop, laptop, home server, or cloud VM)
 2. Mobile client: A smartphone with a stable Internet connection
 3. Stable network: A reliable network connection on the host (Ethernet preferred; strong Wi-Fi acceptable)
 
-## Accounts / Software
+## Accounts/Software
 
 1. A method to connect your devices securely
     - *Recommended*: Tailscale or an equivalent zero-config mesh VPN

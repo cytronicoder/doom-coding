@@ -14,8 +14,9 @@ At a high level, your phone serves as a remote terminal for your computer:
 
 Explore the detailed guides below to set up your environment:
 
-1. [Overview](docs/overview.md)
-2. [Requirements](docs/requirements.md)
+1. [**Quick Start Tutorial**](docs/tutorial.md) - **Start here!**
+2. [Overview](docs/overview.md)
+3. [Requirements](docs/requirements.md)
 3. [Host Setup](docs/setup-host.md)
 4. [Client Setup](docs/setup-client.md)
 5. [Workflow](docs/workflow.md)

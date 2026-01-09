@@ -1,14 +1,17 @@
 # Host Setup
 
-Follow these steps to prepare your computer (the host) for secure remote access.
+Follow these steps to prepare your computer (the host) for secure remote access. For a hands-on walkthrough with copy-paste commands, see the [Step-by-Step Tutorial](tutorial.md).
 
 ## 1. Reliability and Power Management
 
 Ensure your host stays online and reachable even when you aren't physically present.
 
-- Configure the machine so it does not sleep while plugged into power
-- Use a wired Ethernet connection if possible for maximum stability
-- If using a laptop, confirm it remains reachable when the lid is closed. This often requires specific utility settings or OS-level configuration (e.g., "Prevent sleep when display is off")
+- Configure the machine so it does not sleep while plugged into power.
+- Use a wired Ethernet connection if possible for maximum stability.
+- macOS Laptop: Ensure it remains reachable when the lid is closed.
+  - _CLI_: `caffeinate -dis` will prevent sleep.
+  - _Permanent_: `sudo pmset -a disablesleep 1` (Use with caution; disable when not doom coding).
+- Linux Laptop: Use `systemd` to ignore the lid switch in `/etc/systemd/logind.conf` by setting `HandleLidSwitch=ignore`.
 
 ## 2. Enable the SSH Server
 
